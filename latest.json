@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.4",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.4/Guardian-Setup-0.9.4.exe",
-    "sha256":  "daaf38cccbcf6b2de4c9d66d64e013bf3abcbabd3ae5a82af92f3d9f151ab362",
-    "notas":  "Diario para objetivos y recaidas. Guia de inicio con la pregunta de YouTube.",
-    "fecha":  "2026-10-18T07:27:08.8487214Z"
+    "version":  "0.9.5",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.5/Guardian-Setup-0.9.5.exe",
+    "sha256":  "fcef0542c7af0a90fe3d1152e971c8af1fa7660e085b98628519ab3860a4d965",
+    "notas":  "La espera del candado se elige a medida: dias, horas y minutos.",
+    "fecha":  "2026-10-18T07:48:10.4672796Z"
 }
