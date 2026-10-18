@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.5",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.5/Guardian-Setup-0.9.5.exe",
-    "sha256":  "fcef0542c7af0a90fe3d1152e971c8af1fa7660e085b98628519ab3860a4d965",
-    "notas":  "La espera del candado se elige a medida: dias, horas y minutos.",
-    "fecha":  "2026-10-18T07:48:10.4672796Z"
+    "version":  "0.9.6",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.6/Guardian-Setup-0.9.6.exe",
+    "sha256":  "363f7356215edb50c98ab4f970434287947bc7ef0c17e0dc25c04054fc697165",
+    "notas":  "Buscar actualizaciones a mano ya no se queda con una copia vieja.",
+    "fecha":  "2026-10-18T07:56:57.9435113Z"
 }
