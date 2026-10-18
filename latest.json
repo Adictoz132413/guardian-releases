@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.3",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.3/Guardian-Setup-0.9.3.exe",
-    "sha256":  "42372be112e33d5ef1b79a1e31391bb8d7c88928202dc0e44608a1f288c8c543",
-    "notas":  "La lista blanca de la IA admite carpetas.",
-    "fecha":  "2026-10-18T06:58:30.8396640Z"
+    "version":  "0.9.4",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.4/Guardian-Setup-0.9.4.exe",
+    "sha256":  "daaf38cccbcf6b2de4c9d66d64e013bf3abcbabd3ae5a82af92f3d9f151ab362",
+    "notas":  "Diario para objetivos y recaidas. Guia de inicio con la pregunta de YouTube.",
+    "fecha":  "2026-10-18T07:27:08.8487214Z"
 }
