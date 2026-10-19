@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.6",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.6/Guardian-Setup-0.9.6.exe",
-    "sha256":  "363f7356215edb50c98ab4f970434287947bc7ef0c17e0dc25c04054fc697165",
-    "notas":  "Buscar actualizaciones a mano ya no se queda con una copia vieja.",
-    "fecha":  "2026-10-18T07:56:57.9435113Z"
+    "version":  "0.9.7",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.7/Guardian-Setup-0.9.7.exe",
+    "sha256":  "e114ea0c5197997ae184d3f46eeb478395aec16c354c0fb2d694f4f5cb538dc1",
+    "notas":  "En el aviso, \u0027Fue un error\u0027 se puede pulsar desde el primer segundo.",
+    "fecha":  "2026-10-19T02:22:19.5414942Z"
 }
