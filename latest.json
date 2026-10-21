@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.8",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.8/Guardian-Setup-0.9.8.exe",
-    "sha256":  "c4e539408c28a48e8caf0927266d64a832cb4b634d1e89915f9c072dd3862922",
-    "notas":  "Inicio avisa en grande cuando el candado lleva dias quitado, con el boton para echarlo. El Diario puede llevar contrasena (opcional), con codigo de recuperacion.",
-    "fecha":  "2026-10-19T03:01:52.3258055Z"
+    "version":  "0.9.9",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.9/Guardian-Setup-0.9.9.exe",
+    "sha256":  "09ed6d0ae5ffc199f686818e2d110f11a82fac429c6f42eed54feeff27896469",
+    "notas":  "Las actualizaciones se instalan solas cuando el PC lleva un minuto bloqueado (no solo de madrugada). En Inicio se ve cuando hay una lista. Fue un error se puede decir desde el primer segundo (desde la 0.9.7).",
+    "fecha":  "2026-10-21T03:16:35.2283056Z"
 }
