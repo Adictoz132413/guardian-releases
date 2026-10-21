@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.9",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.9/Guardian-Setup-0.9.9.exe",
-    "sha256":  "09ed6d0ae5ffc199f686818e2d110f11a82fac429c6f42eed54feeff27896469",
-    "notas":  "Las actualizaciones se instalan solas cuando el PC lleva un minuto bloqueado (no solo de madrugada). En Inicio se ve cuando hay una lista. Fue un error se puede decir desde el primer segundo (desde la 0.9.7).",
-    "fecha":  "2026-10-21T03:16:35.2283056Z"
+    "version":  "0.9.10",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.10/Guardian-Setup-0.9.10.exe",
+    "sha256":  "4c0825d8640fa1e3fd51d24bd2ef1367553a9d1572768b399f9b68e1c97053b9",
+    "notas":  "Nivel de la IA en Ajustes: Alto (bloquea tambien ropa interior y contenido suave) o Normal (lo sugerente solo atenua la pantalla). Bajar a Normal pasa por la espera del candado. Las actualizaciones se instalan solas cuando el PC lleva un minuto bloqueado.",
+    "fecha":  "2026-10-21T04:01:19.6615212Z"
 }
