@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.10",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.10/Guardian-Setup-0.9.10.exe",
-    "sha256":  "4c0825d8640fa1e3fd51d24bd2ef1367553a9d1572768b399f9b68e1c97053b9",
-    "notas":  "Nivel de la IA en Ajustes: Alto (bloquea tambien ropa interior y contenido suave) o Normal (lo sugerente solo atenua la pantalla). Bajar a Normal pasa por la espera del candado. Las actualizaciones se instalan solas cuando el PC lleva un minuto bloqueado.",
-    "fecha":  "2026-10-21T04:01:19.6615212Z"
+    "version":  "0.9.11",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.11/Guardian-Setup-0.9.11.exe",
+    "sha256":  "e9873ef0727d4938f1131c927a6703f9bc056faed7916950e852f1e842533508",
+    "notas":  "El aviso ya no vuelve a aparecer medio segundo despues de cerrarlo.",
+    "fecha":  "2026-10-21T04:29:30.0875194Z"
 }
