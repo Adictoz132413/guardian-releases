@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.12",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.12/Guardian-Setup-0.9.12.exe",
-    "sha256":  "962c6fb729c169242269ab07fcec6844f287e137167656c33fac1722481b7f06",
-    "notas":  "Diario: la pantalla se refresca al entrar y, con contrasena, cerrada no deja nada a la vista.",
-    "fecha":  "2026-10-22T01:08:46.9156540Z"
+    "version":  "0.9.13",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.13/Guardian-Setup-0.9.13.exe",
+    "sha256":  "4f202be6cd7c77e3f9975f232b301573602e820e1e122ff8b205f5aab341ac46",
+    "notas":  "Diario: la recaida con su fecha (hoy, ayer, hace dias u otra), el objetivo con su \u0027para cuando\u0027 y cuanto falta, y cada tipo con su forma.",
+    "fecha":  "2026-10-22T01:32:02.1258623Z"
 }
