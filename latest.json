@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.11",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.11/Guardian-Setup-0.9.11.exe",
-    "sha256":  "e9873ef0727d4938f1131c927a6703f9bc056faed7916950e852f1e842533508",
-    "notas":  "El aviso ya no vuelve a aparecer medio segundo despues de cerrarlo.",
-    "fecha":  "2026-10-21T04:29:30.0875194Z"
+    "version":  "0.9.12",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.12/Guardian-Setup-0.9.12.exe",
+    "sha256":  "962c6fb729c169242269ab07fcec6844f287e137167656c33fac1722481b7f06",
+    "notas":  "Diario: la pantalla se refresca al entrar y, con contrasena, cerrada no deja nada a la vista.",
+    "fecha":  "2026-10-22T01:08:46.9156540Z"
 }
