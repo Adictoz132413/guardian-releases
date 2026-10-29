@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.17",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.17/Guardian-Setup-0.9.17.exe",
-    "sha256":  "c679d3fb987dc9460f24e835162009ab0b7f3b775672c09770d271ad01e6588e",
-    "notas":  "Ahora puedes editar los horarios de Productividad con el botón Editar. Con el candado echado, solo para que bloqueen más.",
-    "fecha":  "2026-10-28T00:58:19.4416295Z"
+    "version":  "0.9.18",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.18/Guardian-Setup-0.9.18.exe",
+    "sha256":  "e5d1e70ce3d87fddf611b7bf5f5bfc93d9977668c05d6f57774b9cbd3591c7c4",
+    "notas":  "Arreglo: un horario borrado sin candado ya no vuelve aunque eches el candado enseguida.",
+    "fecha":  "2026-10-29T02:52:14.0330048Z"
 }
