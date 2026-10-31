@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.18",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.18/Guardian-Setup-0.9.18.exe",
-    "sha256":  "e5d1e70ce3d87fddf611b7bf5f5bfc93d9977668c05d6f57774b9cbd3591c7c4",
-    "notas":  "Arreglo: un horario borrado sin candado ya no vuelve aunque eches el candado enseguida.",
-    "fecha":  "2026-10-29T02:52:14.0330048Z"
+    "version":  "0.9.19",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.19/Guardian-Setup-0.9.19.exe",
+    "sha256":  "f6aeff389773ddb58da68ee5eaad5a30ad7243a44a6fdb009a26a9462f5fd29c",
+    "notas":  "Si el candado del celular está echado, ya no se puede quitar un horario aquí: Guardian avisa cuánto le falta a su espera, en vez de devolverlo sin decir nada.",
+    "fecha":  "2026-10-31T02:24:16.1839477Z"
 }
