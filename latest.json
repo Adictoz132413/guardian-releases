@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.19",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.19/Guardian-Setup-0.9.19.exe",
-    "sha256":  "f6aeff389773ddb58da68ee5eaad5a30ad7243a44a6fdb009a26a9462f5fd29c",
-    "notas":  "Si el candado del celular está echado, ya no se puede quitar un horario aquí: Guardian avisa cuánto le falta a su espera, en vez de devolverlo sin decir nada.",
-    "fecha":  "2026-10-31T02:24:16.1839477Z"
+    "version":  "0.9.20",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.20/Guardian-Setup-0.9.20.exe",
+    "sha256":  "70b876365887a0b7008b346933ad5f0ea06012d194a9eccd907f5f8823984574",
+    "notas":  "Nuevo interruptor en Ajustes: Aviso corto. El aviso se quita al momento y no cierra nada hasta el tercero, que bloquea 15 minutos. Encenderlo cuesta la espera del candado.",
+    "fecha":  "2026-11-04T02:20:16.8842975Z"
 }
