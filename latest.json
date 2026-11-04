@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.20",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.20/Guardian-Setup-0.9.20.exe",
-    "sha256":  "70b876365887a0b7008b346933ad5f0ea06012d194a9eccd907f5f8823984574",
-    "notas":  "Nuevo interruptor en Ajustes: Aviso corto. El aviso se quita al momento y no cierra nada hasta el tercero, que bloquea 15 minutos. Encenderlo cuesta la espera del candado.",
-    "fecha":  "2026-11-04T02:20:16.8842975Z"
+    "version":  "0.9.21",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.21/Guardian-Setup-0.9.21.exe",
+    "sha256":  "2ae6967e6396c96bec0b8c75180c2f8053df72cf9d6a3293ffad162f09f44220",
+    "notas":  "Nuevo nivel Máximo de la IA, Aviso corto en Ajustes, menú reordenado, espera del candado más fácil y botón para quitar el candado en Inicio.",
+    "fecha":  "2026-11-04T03:15:15.2127644Z"
 }
