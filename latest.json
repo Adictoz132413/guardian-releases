@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.21",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.21/Guardian-Setup-0.9.21.exe",
-    "sha256":  "2ae6967e6396c96bec0b8c75180c2f8053df72cf9d6a3293ffad162f09f44220",
-    "notas":  "Nuevo nivel Máximo de la IA, Aviso corto en Ajustes, menú reordenado, espera del candado más fácil y botón para quitar el candado en Inicio.",
-    "fecha":  "2026-11-04T03:15:15.2127644Z"
+    "version":  "0.9.22",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.22/Guardian-Setup-0.9.22.exe",
+    "sha256":  "e3a89ee332c5194cbdee5e2b350a8da94016d4575b9e660672a303e4028114ea",
+    "notas":  "Un solo candado de Productividad con el celular: si lo echas, lo pides quitar o cancelas en uno, pasa lo mismo en el otro. Cada uno cumple su espera entera.",
+    "fecha":  "2026-11-08T16:10:38.0273586Z"
 }
