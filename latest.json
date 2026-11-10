@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.22",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.22/Guardian-Setup-0.9.22.exe",
-    "sha256":  "e3a89ee332c5194cbdee5e2b350a8da94016d4575b9e660672a303e4028114ea",
-    "notas":  "Un solo candado de Productividad con el celular: si lo echas, lo pides quitar o cancelas en uno, pasa lo mismo en el otro. Cada uno cumple su espera entera.",
-    "fecha":  "2026-11-08T16:10:38.0273586Z"
+    "version":  "0.9.23",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.23/Guardian-Setup-0.9.23.exe",
+    "sha256":  "622eb7aae4a1b1e1d68c5524377007b1f60858e20e8d6075d6ed92b7e4e03555",
+    "notas":  "Unir el PC y el celular con tu correo, sin códigos (como Qustodio). La contraseña no se guarda.",
+    "fecha":  "2026-11-10T01:11:11.6268938Z"
 }
