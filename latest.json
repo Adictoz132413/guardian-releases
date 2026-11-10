@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.23",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.23/Guardian-Setup-0.9.23.exe",
-    "sha256":  "622eb7aae4a1b1e1d68c5524377007b1f60858e20e8d6075d6ed92b7e4e03555",
-    "notas":  "Unir el PC y el celular con tu correo, sin códigos (como Qustodio). La contraseña no se guarda.",
-    "fecha":  "2026-11-10T01:11:11.6268938Z"
+    "version":  "0.9.24",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.24/Guardian-Setup-0.9.24.exe",
+    "sha256":  "8d308bb3efe3cafdf931fbf055de4e5894725653d12dcc4fec261d4836c341e7",
+    "notas":  "¿Olvidaste tu contraseña? en la tarjeta CELULAR: código o enlace del correo, y contraseña nueva.",
+    "fecha":  "2026-11-10T02:04:58.4485735Z"
 }
