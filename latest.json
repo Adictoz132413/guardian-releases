@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.25",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.25/Guardian-Setup-0.9.25.exe",
-    "sha256":  "8b46bda4794c6ffb9c34bc7fe85013a63065a1998ba1fa3c7e805ed0c5b986fe",
-    "notas":  "Nuevo interruptor en Ajustes: «Segunda IA: solo oscurecer». Aviso rojo en Inicio si el bloqueo del celular se apaga.",
-    "fecha":  "2026-11-14T02:22:30.0565264Z"
+    "version":  "0.9.26",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.26/Guardian-Setup-0.9.26.exe",
+    "sha256":  "0ed43288114db63f7b78ab0d29d8bde6453c5388d01b6ec012affcd6591d11ed",
+    "notas":  "Ajustes más sencillos: el aviso de la IA ya no tiene cuenta regresiva (se cierra al momento; al tercero bloquea 15 minutos).",
+    "fecha":  "2026-11-14T03:16:52.7432874Z"
 }
