@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.24",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.24/Guardian-Setup-0.9.24.exe",
-    "sha256":  "8d308bb3efe3cafdf931fbf055de4e5894725653d12dcc4fec261d4836c341e7",
-    "notas":  "¿Olvidaste tu contraseña? en la tarjeta CELULAR: código o enlace del correo, y contraseña nueva.",
-    "fecha":  "2026-11-10T02:04:58.4485735Z"
+    "version":  "0.9.25",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.25/Guardian-Setup-0.9.25.exe",
+    "sha256":  "8b46bda4794c6ffb9c34bc7fe85013a63065a1998ba1fa3c7e805ed0c5b986fe",
+    "notas":  "Nuevo interruptor en Ajustes: «Segunda IA: solo oscurecer». Aviso rojo en Inicio si el bloqueo del celular se apaga.",
+    "fecha":  "2026-11-14T02:22:30.0565264Z"
 }
