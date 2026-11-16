@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.27",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.27/Guardian-Setup-0.9.27.exe",
-    "sha256":  "1a1cb3bbe3ec1dd72b6649b4db6da1fe8cd9f9e49cdd3f21a672361623147d21",
-    "notas":  "En nivel Normal la IA solo bloquea lo explícito; lo dudoso solo oscurece la pantalla (ya no cierra juegos). Quedan dos niveles: Normal y Alto.",
-    "fecha":  "2026-11-15T23:39:33.8190556Z"
+    "version":  "0.9.28",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.28/Guardian-Setup-0.9.28.exe",
+    "sha256":  "d7b4efc473d88f31277b53a8ee97f88f9860a3a9e9cb228a5d7d827c1b852f13",
+    "notas":  "Guardian gasta mucho menos procesador: la IA usa la tarjeta grafica. Protege igual.",
+    "fecha":  "2026-11-16T23:28:14.7430532Z"
 }
