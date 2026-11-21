@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.28",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.28/Guardian-Setup-0.9.28.exe",
-    "sha256":  "d7b4efc473d88f31277b53a8ee97f88f9860a3a9e9cb228a5d7d827c1b852f13",
-    "notas":  "Guardian gasta mucho menos procesador: la IA usa la tarjeta grafica. Protege igual.",
-    "fecha":  "2026-11-16T23:28:14.7430532Z"
+    "version":  "0.9.29",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.29/Guardian-Setup-0.9.29.exe",
+    "sha256":  "61e611d43f33ca5177d1756a4d7e9d1b090da525d09889b300e63df53672bc95",
+    "notas":  "Un solo candado para toda la app: los horarios y apagar la IA usan el mismo candado.",
+    "fecha":  "2026-11-21T02:03:16.7009875Z"
 }
