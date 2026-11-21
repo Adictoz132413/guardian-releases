@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.29",
-    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.29/Guardian-Setup-0.9.29.exe",
-    "sha256":  "61e611d43f33ca5177d1756a4d7e9d1b090da525d09889b300e63df53672bc95",
-    "notas":  "Un solo candado para toda la app: los horarios y apagar la IA usan el mismo candado.",
-    "fecha":  "2026-11-21T02:03:16.7009875Z"
+    "version":  "0.9.30",
+    "url":  "https://github.com/Adictoz132413/guardian-releases/releases/download/v0.9.30/Guardian-Setup-0.9.30.exe",
+    "sha256":  "fafeee3e499810a09f13bb1c439917fad0b578bee27b6eb889c491b13596bd94",
+    "notas":  "YouTube y las páginas de tu lista blanca ya no se oscurecen. En nivel Normal, lo dudoso no oscurece la pantalla: la IA solo actúa ante lo explícito.",
+    "fecha":  "2026-11-21T02:18:04.9154529Z"
 }
